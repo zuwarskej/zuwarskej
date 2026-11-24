@@ -9,5 +9,4 @@ Outside work: a GitOps release engine in Python that releases itself with signed
 Focus: DevOps and release engineering teams where artifacts and infrastructure changes both move through Git review.
 
 - [Resume (PDF)](Vadzim_Prudnichenka_Resume.pdf)
-- [Cover letter (PDF)](Vadzim_Prudnichenka_Cover_Letter.pdf)
 - linkedin.com/in/vadzim-prudnichenka
